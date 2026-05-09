@@ -13,9 +13,9 @@ This project focuses on analyzing the impact of environmental factors on **Gas T
 - **Correlation:** Proved that ambient temperature is the primary driver of efficiency loss in this model.
 
 ## 📈 Visualizations
-![Performance Chart](性能图表.png)
+![Performance Chart](performance_chart.png)
 
 ## 📂 Project Structure
-- `燃气轮机分析.ipynb`: Main analysis notebook.
+- `Gas_Turbine_Analysis.ipynb`: Main analysis notebook.
 - `sensor_data.csv`: Cleaned dataset used for analysis.
-- `性能图表.png`: Visualized result of the study.
+- `performance_chart.png`: Visualized result of the study.
